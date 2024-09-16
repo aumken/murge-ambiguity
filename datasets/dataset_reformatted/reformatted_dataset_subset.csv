@@ -1,0 +1,201 @@
+idx,sentence,followup,stype,ftype,OP1,OP1_type,OP2,OP2_type,ambiguity,question_type
+1,Katherine spotted Mary and she waved. The answer to the question: Who waved? is,Mary,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+1,Katherine spotted Mary and she waved. The answer to the question: Who waved? is,Katherine,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+2,Sherlock spotted the man and he frowned. The answer to the question: Who frowned? is,the man,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+2,Sherlock spotted the man and he frowned. The answer to the question: Who frowned? is,Sherlock,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+3,the boy spied Galileo and he smiled. The answer to the question: Who smiled? is,Galileo,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+3,the boy spied Galileo and he smiled. The answer to the question: Who smiled? is,the boy,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+4,the boy spied Sherlock and he smiled. The answer to the question: Who smiled? is,Sherlock,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+4,the boy spied Sherlock and he smiled. The answer to the question: Who smiled? is,the boy,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+5,Katherine observed Ada and she waved. The answer to the question: Who waved? is,Ada,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+5,Katherine observed Ada and she waved. The answer to the question: Who waved? is,Katherine,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+6,Adele spotted Ada and she lept. The answer to the question: Who lept? is,Ada,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+6,Adele spotted Ada and she lept. The answer to the question: Who lept? is,Adele,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+7,the girl observed the woman and she frowned. The answer to the question: Who frowned? is,the woman,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+7,the girl observed the woman and she frowned. The answer to the question: Who frowned? is,the girl,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+8,Galileo spotted Bill and he waved. The answer to the question: Who waved? is,Bill,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+8,Galileo spotted Bill and he waved. The answer to the question: Who waved? is,Galileo,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+9,Mary spotted Adele and she smiled. The answer to the question: Who smiled? is,Adele,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+9,Mary spotted Adele and she smiled. The answer to the question: Who smiled? is,Mary,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+10,Katherine spied Marie and she frowned. The answer to the question: Who frowned? is,Marie,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+10,Katherine spied Marie and she frowned. The answer to the question: Who frowned? is,Katherine,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,bound
+1,Mark spotted the woman and he waved. The answer to the question: Who waved? is,Mark,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+1,Mark spotted the woman and he waved. The answer to the question: Who waved? is,the woman,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+2,Bill spotted the girl and he frowned. The answer to the question: Who frowned? is,Bill,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+2,Bill spotted the girl and he frowned. The answer to the question: Who frowned? is,the girl,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+3,Ada spied Galileo and she smiled. The answer to the question: Who smiled? is,Ada,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+3,Ada spied Galileo and she smiled. The answer to the question: Who smiled? is,Galileo,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+4,Ada spied Galileo and she smiled. The answer to the question: Who smiled? is,Ada,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+4,Ada spied Galileo and she smiled. The answer to the question: Who smiled? is,Galileo,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+5,Galileo observed Adele and he waved. The answer to the question: Who waved? is,Galileo,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+5,Galileo observed Adele and he waved. The answer to the question: Who waved? is,Adele,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+6,John spotted the woman and he lept. The answer to the question: Who lept? is,John,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+6,John spotted the woman and he lept. The answer to the question: Who lept? is,the woman,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+7,John observed the girl and he frowned. The answer to the question: Who frowned? is,John,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+7,John observed the girl and he frowned. The answer to the question: Who frowned? is,the girl,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+8,the man spotted Mary and he waved. The answer to the question: Who waved? is,the man,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+8,the man spotted Mary and he waved. The answer to the question: Who waved? is,Mary,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+9,Sherlock spotted Adele and he smiled. The answer to the question: Who smiled? is,Sherlock,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+9,Sherlock spotted Adele and he smiled. The answer to the question: Who smiled? is,Adele,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+10,Mary spied Bill and she frowned. The answer to the question: Who frowned? is,Mary,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+10,Mary spied Bill and she frowned. The answer to the question: Who frowned? is,Bill,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,bound
+1,each fish picked up a pair of pants. The answer to the question: How many pants were picked_up? is,one pants,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+1,each fish picked up a pair of pants. The answer to the question: How many pants were picked_up? is,many pants,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+2,each cat picked up an elephant. The answer to the question: How many elephants were picked_up? is,one elephant,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+2,each cat picked up an elephant. The answer to the question: How many elephants were picked_up? is,many elephants,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+3,each fish grabbed a pair of binoculars. The answer to the question: How many binoculars were grabbed? is,one binoculars,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+3,each fish grabbed a pair of binoculars. The answer to the question: How many binoculars were grabbed? is,many binoculars,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+4,every dog spotted a boy. The answer to the question: How many boys were spotted? is,one boy,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+4,every dog spotted a boy. The answer to the question: How many boys were spotted? is,many boys,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+5,each boy spied a hat. The answer to the question: How many hats were spied? is,one hat,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+5,each boy spied a hat. The answer to the question: How many hats were spied? is,many hats,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+6,every elephant picked up a cup. The answer to the question: How many cups were picked_up? is,one cup,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+6,every elephant picked up a cup. The answer to the question: How many cups were picked_up? is,many cups,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+7,every girl held a table. The answer to the question: How many tables were held? is,one table,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+7,every girl held a table. The answer to the question: How many tables were held? is,many tables,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+8,each bird picked up a crayon. The answer to the question: How many crayons were picked_up? is,one crayon,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+8,each bird picked up a crayon. The answer to the question: How many crayons were picked_up? is,many crayons,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+9,each dog spied a girl. The answer to the question: How many girls were spied? is,one girl,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+9,each dog spied a girl. The answer to the question: How many girls were spied? is,many girls,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+10,every boy spied a cup. The answer to the question: How many cups were spied? is,one cup,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+10,every boy spied a cup. The answer to the question: How many cups were spied? is,many cups,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,scope
+1,each fish picked up the pair of pants. The answer to the question: How many pants were picked_up? is,one pants,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+1,each fish picked up the pair of pants. The answer to the question: How many pants were picked_up? is,many pants,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+2,each cat picked up the elephant. The answer to the question: How many elephants were picked_up? is,one elephant,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+2,each cat picked up the elephant. The answer to the question: How many elephants were picked_up? is,many elephants,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+3,each fish grabbed the pair of binoculars. The answer to the question: How many binoculars were grabbed? is,one binoculars,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+3,each fish grabbed the pair of binoculars. The answer to the question: How many binoculars were grabbed? is,many binoculars,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+4,every dog spotted the boy. The answer to the question: How many boys were spotted? is,one boy,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+4,every dog spotted the boy. The answer to the question: How many boys were spotted? is,many boys,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+5,each boy spied the hat. The answer to the question: How many hats were spied? is,one hat,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+5,each boy spied the hat. The answer to the question: How many hats were spied? is,many hats,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+6,every elephant picked up the cup. The answer to the question: How many cups were picked_up? is,one cup,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+6,every elephant picked up the cup. The answer to the question: How many cups were picked_up? is,many cups,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+7,every girl held the table. The answer to the question: How many tables were held? is,one table,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+7,every girl held the table. The answer to the question: How many tables were held? is,many tables,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+8,each bird picked up the crayon. The answer to the question: How many crayons were picked_up? is,one crayon,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+8,each bird picked up the crayon. The answer to the question: How many crayons were picked_up? is,many crayons,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+9,each dog spied the girl. The answer to the question: How many girls were spied? is,one girl,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+9,each dog spied the girl. The answer to the question: How many girls were spied? is,many girls,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+10,every boy spied the cup. The answer to the question: How many cups were spied? is,one cup,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+10,every boy spied the cup. The answer to the question: How many cups were spied? is,many cups,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,scope
+1,a boy spotted every pair of ovenmitts. The answer to the question: How many boys spotted ovenmitts? is,one boy,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+1,a boy spotted every pair of ovenmitts. The answer to the question: How many boys spotted ovenmitts? is,many boys,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+2,a cat lifted every sweater. The answer to the question: How many cats lifted sweaters? is,one cat,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+2,a cat lifted every sweater. The answer to the question: How many cats lifted sweaters? is,many cats,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+3,a cow saw each table. The answer to the question: How many cows saw tables? is,one cow,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+3,a cow saw each table. The answer to the question: How many cows saw tables? is,many cows,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+4,a cat lifted each telescope. The answer to the question: How many cats lifted telescopes? is,one cat,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+4,a cat lifted each telescope. The answer to the question: How many cats lifted telescopes? is,many cats,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+5,a boy saw each cow. The answer to the question: How many boys saw cows? is,one boy,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+5,a boy saw each cow. The answer to the question: How many boys saw cows? is,many boys,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+6,an elephant grabbed each pair of pants. The answer to the question: How many elephants grabbed pants? is,one elephant,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+6,an elephant grabbed each pair of pants. The answer to the question: How many elephants grabbed pants? is,many elephants,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+7,a boy saw each set of pyjamas. The answer to the question: How many boys saw pyjamas? is,one boy,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+7,a boy saw each set of pyjamas. The answer to the question: How many boys saw pyjamas? is,many boys,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+8,a boy picked up each woman. The answer to the question: How many boys picked_up women? is,one boy,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+8,a boy picked up each woman. The answer to the question: How many boys picked_up women? is,many boys,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+9,a girl held every boy. The answer to the question: How many girls held boys? is,one girl,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+9,a girl held every boy. The answer to the question: How many girls held boys? is,many girls,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+10,a cat picked up every pair of mittens. The answer to the question: How many cats picked_up mittens? is,one cat,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+10,a cat picked up every pair of mittens. The answer to the question: How many cats picked_up mittens? is,many cats,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,reverse_scope
+1,the boy spotted every pair of ovenmitts. The answer to the question: How many boys spotted ovenmitts? is,one boy,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+1,the boy spotted every pair of ovenmitts. The answer to the question: How many boys spotted ovenmitts? is,many boys,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+2,the cat lifted every sweater. The answer to the question: How many cats lifted sweaters? is,one cat,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+2,the cat lifted every sweater. The answer to the question: How many cats lifted sweaters? is,many cats,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+3,the cow saw each table. The answer to the question: How many cows saw tables? is,one cow,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+3,the cow saw each table. The answer to the question: How many cows saw tables? is,many cows,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+4,the cat lifted each telescope. The answer to the question: How many cats lifted telescopes? is,one cat,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+4,the cat lifted each telescope. The answer to the question: How many cats lifted telescopes? is,many cats,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+5,the boy saw each cow. The answer to the question: How many boys saw cows? is,one boy,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+5,the boy saw each cow. The answer to the question: How many boys saw cows? is,many boys,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+6,the elephant grabbed each pair of pants. The answer to the question: How many elephants grabbed pants? is,one elephant,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+6,the elephant grabbed each pair of pants. The answer to the question: How many elephants grabbed pants? is,many elephants,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+7,the boy saw each set of pyjamas. The answer to the question: How many boys saw pyjamas? is,one boy,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+7,the boy saw each set of pyjamas. The answer to the question: How many boys saw pyjamas? is,many boys,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+8,the boy picked up each woman. The answer to the question: How many boys picked_up womans? is,one boy,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+8,the boy picked up each woman. The answer to the question: How many boys picked_up womans? is,many boys,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+9,the girl held every boy. The answer to the question: How many girls held boys? is,one girl,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+9,the girl held every boy. The answer to the question: How many girls held boys? is,many girls,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+10,the cat picked up every pair of mittens. The answer to the question: How many cats picked_up mittens? is,one cat,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+10,the cat picked up every pair of mittens. The answer to the question: How many cats picked_up mittens? is,many cats,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,reverse_scope
+1,Watson spotted Alan with the binoculars. The answer to the question: Who has the binoculars? is,Watson,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+1,Watson spotted Alan with the binoculars. The answer to the question: Who has the binoculars? is,Alan,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+2,the man saw the woman with the camera. The answer to the question: Who has the camera? is,the man,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+2,the man saw the woman with the camera. The answer to the question: Who has the camera? is,the woman,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+3,the girl grabbed the woman with the gloves. The answer to the question: Who has the gloves? is,the girl,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+3,the girl grabbed the woman with the gloves. The answer to the question: Who has the gloves? is,the woman,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+4,Mary observed the man with the camera. The answer to the question: Who has the camera? is,Mary,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+4,Mary observed the man with the camera. The answer to the question: Who has the camera? is,the man,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+5,Adele observed Ada with the binoculars. The answer to the question: Who has the binoculars? is,Adele,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+5,Adele observed Ada with the binoculars. The answer to the question: Who has the binoculars? is,Ada,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+6,the girl spotted Sherlock with the binoculars. The answer to the question: Who has the binoculars? is,the girl,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+6,the girl spotted Sherlock with the binoculars. The answer to the question: Who has the binoculars? is,Sherlock,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+7,Mary observed the man with the binoculars. The answer to the question: Who has the binoculars? is,Mary,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+7,Mary observed the man with the binoculars. The answer to the question: Who has the binoculars? is,the man,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+8,Alan spotted Bill with the camera. The answer to the question: Who has the camera? is,Alan,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+8,Alan spotted Bill with the camera. The answer to the question: Who has the camera? is,Bill,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+9,Galileo spotted the woman with the binoculars. The answer to the question: Who has the binoculars? is,Galileo,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+9,Galileo spotted the woman with the binoculars. The answer to the question: Who has the binoculars? is,the woman,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+10,Sherlock spied the woman with the telescope. The answer to the question: Who has the telescope? is,Sherlock,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+10,Sherlock spied the woman with the telescope. The answer to the question: Who has the telescope? is,the woman,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,pp
+1,Watson spotted Alan with the hat. The answer to the question: Who has the hat? is,Alan,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+1,Watson spotted Alan with the hat. The answer to the question: Who has the hat? is,Watson,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+2,the man saw the woman with the watch. The answer to the question: Who has the watch? is,the woman,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+2,the man saw the woman with the watch. The answer to the question: Who has the watch? is,the man,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+3,the girl grabbed the woman with the pen. The answer to the question: Who has the pen? is,the woman,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+3,the girl grabbed the woman with the pen. The answer to the question: Who has the pen? is,the girl,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+4,Mary observed the man with the book. The answer to the question: Who has the book? is,the man,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+4,Mary observed the man with the book. The answer to the question: Who has the book? is,Mary,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+5,Adele observed Ada with the umbrella. The answer to the question: Who has the umbrella? is,Ada,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+5,Adele observed Ada with the umbrella. The answer to the question: Who has the umbrella? is,Adele,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+6,the girl spotted Sherlock with the scarf. The answer to the question: Who has the scarf? is,Sherlock,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+6,the girl spotted Sherlock with the scarf. The answer to the question: Who has the scarf? is,the girl,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+7,Mary observed the man with the bag. The answer to the question: Who has the bag? is,the man,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+7,Mary observed the man with the bag. The answer to the question: Who has the bag? is,Mary,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+8,Alan spotted Bill with the scarf. The answer to the question: Who has the scarf? is,Bill,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+8,Alan spotted Bill with the scarf. The answer to the question: Who has the scarf? is,Alan,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+9,Galileo spotted the woman with the watch. The answer to the question: Who has the watch? is,the woman,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+9,Galileo spotted the woman with the watch. The answer to the question: Who has the watch? is,Galileo,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+10,Sherlock spied the woman with the hat. The answer to the question: Who has the hat? is,the woman,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+10,Sherlock spied the woman with the hat. The answer to the question: Who has the hat? is,Sherlock,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,pp
+1,the man left and drew or napped. The answer to the question: What did the man do? is,The man either left and drew or napped,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+1,the man left and drew or napped. The answer to the question: What did the man do? is,The man left and then either drew or napped,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+2,the man slept and played or left. The answer to the question: What did the man do? is,The man either slept and played or left,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+2,the man slept and played or left. The answer to the question: What did the man do? is,The man slept and then either played or left,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+3,the dog drank and played or slept. The answer to the question: What did the dog do? is,The dog either drank and played or slept,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+3,the dog drank and played or slept. The answer to the question: What did the dog do? is,The dog drank and then either played or slept,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+4,the man ate and drew or napped. The answer to the question: What did the man do? is,The man either ate and drew or napped,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+4,the man ate and drew or napped. The answer to the question: What did the man do? is,The man ate and then either drew or napped,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+5,the girl walked and moved or ate. The answer to the question: What did the girl do? is,The girl either walked and moved or ate,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+5,the girl walked and moved or ate. The answer to the question: What did the girl do? is,The girl walked and then either moved or ate,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+6,the woman played or left and ate. The answer to the question: What did the woman do? is,The woman either played and left or ate,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+6,the woman played or left and ate. The answer to the question: What did the woman do? is,The woman played and then either left or ate,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+7,the elephant drank or played and walked. The answer to the question: What did the elephant do? is,The elephant either drank and played or walked,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+7,the elephant drank or played and walked. The answer to the question: What did the elephant do? is,The elephant drank and then either played or walked,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+8,the girl slept and played or walked. The answer to the question: What did the girl do? is,The girl either slept and played or walked,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+8,the girl slept and played or walked. The answer to the question: What did the girl do? is,The girl slept and then either played or walked,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+9,the woman moved and slept or ate. The answer to the question: What did the woman do? is,The woman either moved and slept or ate,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+9,the woman moved and slept or ate. The answer to the question: What did the woman do? is,The woman moved and then either slept or ate,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+10,the girl slept and ate or napped. The answer to the question: What did the girl do? is,The girl either slept and ate or napped,S,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+10,the girl slept and ate or napped. The answer to the question: What did the girl do? is,The girl slept and then either ate or napped,S,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,ambi,conj
+1,the man left. then the man drew or napped. The answer to the question: What did the man do? is,the man left and then either drew or napped,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+1,the man left. then the man drew or napped. The answer to the question: What did the man do? is,the man either left and drew or napped,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+2,the man slept. then the man played or left. The answer to the question: What did the man do? is,the man slept and then either played or left,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+2,the man slept. then the man played or left. The answer to the question: What did the man do? is,the man either slept and played or left,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+3,the dog drank. then the dog played or slept. The answer to the question: What did the dog do? is,the dog drank and then either played or slept,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+3,the dog drank. then the dog played or slept. The answer to the question: What did the dog do? is,the dog either drank and played or slept,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+4,the man ate. then the man drew or napped. The answer to the question: What did the man do? is,the man ate and then either drew or napped,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+4,the man ate. then the man drew or napped. The answer to the question: What did the man do? is,the man either ate and drew or napped,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+5,the girl walked. then the girl moved or ate. The answer to the question: What did the girl do? is,the girl walked and then either moved or ate,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+5,the girl walked. then the girl moved or ate. The answer to the question: What did the girl do? is,the girl either walked and moved or ate,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+6,the woman played or left and ate. The answer to the question: What did the woman do? is,the woman played and then either left or ate,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+6,the woman played or left and ate. The answer to the question: What did the woman do? is,the woman either played and left or ate,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+7,the elephant drank or played and walked. The answer to the question: What did the elephant do? is,the elephant drank and then either played or walked,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+7,the elephant drank or played and walked. The answer to the question: What did the elephant do? is,the elephant either drank and played or walked,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+8,the girl slept. then the girl played or walked. The answer to the question: What did the girl do? is,the girl slept and then either played or walked,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+8,the girl slept. then the girl played or walked. The answer to the question: What did the girl do? is,the girl either slept and played or walked,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+9,the woman moved. then the woman slept or ate. The answer to the question: What did the woman do? is,the woman moved and then either slept or ate,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+9,the woman moved. then the woman slept or ate. The answer to the question: What did the woman do? is,the woman either moved and slept or ate,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+10,the girl slept. then the girl ate or napped. The answer to the question: What did the girl do? is,the girl slept and then either ate or napped,Sc,F1,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
+10,the girl slept. then the girl ate or napped. The answer to the question: What did the girl do? is,the girl either slept and ate or napped,Sc,F2,NA_CONTROL,NA_CONTROL,NA_CONTROL,NA_CONTROL,unambi,conj
